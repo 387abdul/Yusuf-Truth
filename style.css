@@ -133,11 +133,11 @@ nav{
   padding-top: 30px;
 }
 iframe{
-  width:538;
-  height:315;
+  width:538px;
+  height:315px;
 }
 /* ------------------------------------------------------- */
-@media (min-width: 834px) {
+@media (max-width: 834px) {
   iframe {
     width: 300px;
     height: auto;
